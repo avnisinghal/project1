@@ -1,1 +1,1 @@
-hello
+This program says hello.
